@@ -1,0 +1,14 @@
+features,missing_percentage
+passenger_count,0.34231654944918155
+fare_amount,0.14937449430509742
+pickup_datetime,0.006223937262712392
+year,0.006223937262712392
+month,0.006223937262712392
+date,0.006223937262712392
+dayofweek,0.006223937262712392
+hour,0.006223937262712392
+minute,0.006223937262712392
+pickup_longitude,0.0
+pickup_latitude,0.0
+dropoff_longitude,0.0
+dropoff_latitude,0.0
